@@ -3,7 +3,7 @@
 
 Timer App provides a functionality of Count Down timer and StopWatch.
 
-Check React Timer App on Github - https://github.com/swapnilpatil427/ReactProjects
+Check React Timer App on Github - https://github.com/ishachopde/ReactProjects
 
 ### Tech
 
